@@ -1,0 +1,13 @@
+INFO - 2024-04-13 10:53:36,450 - LOG: Starting long_running_function
+INFO - 2024-04-13 10:58:53,659 - LOG: Starting long_running_function
+INFO - 2024-04-13 12:06:24,562 - LOG: Starting long_running_function
+ARCHIVE - 2024-04-13 12:06:24,563 - Log File Archived in archive directory at: 2024-04-13---test.log
+INFO - 2024-04-13 12:31:52,874 - LOG: Starting long_running_function
+ARCHIVE - 2024-04-13 12:31:52,875 - Log File Archived in archive directory at filename: [2024-04-13---test.log]
+INFO - 2024-04-13 12:32:54,406 - LOG: Starting long_running_function
+ARCHIVE - 2024-04-13 12:32:54,407 - Log File Archived in archive directory at filename: [2024-04-13---test.log]
+INFO - 2024-04-13 12:33:45,153 - LOG: Starting long_running_function
+ARCHIVE - 2024-04-13 12:33:45,154 - Log File Archived in archive directory at filename: [2024-04-13---test.log]
+INFO - 2024-04-13 12:43:53,918 - LOG: Starting long_running_function
+ARCHIVE - 2024-04-13 12:43:53,918 - Log File Archived in archive directory at filename: [2024-04-13---test.log]
+INFO - 2024-04-13 12:44:08,347 - LOG: Starting long_running_function
